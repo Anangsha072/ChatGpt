@@ -11,7 +11,7 @@ It allows users to interact with an AI assistant in real time, similar to ChatGP
 
 🔄 State management with Zustand
 
-🤖 Powered by AI SDKs (@ai-sdk/openai, @ai-sdk/google)
+🤖 Powered by AI SDKs (@ai-sdk/openai,@ai-sdk/google)
 
 🌐 Deployed on Vercel
 
@@ -21,7 +21,7 @@ Frontend: Next.js, React, TailwindCSS
 
 AI: AI SDK (OpenAI / Google)
 
-State Management: Zustand
+
 
 Deployment: Vercel
 
